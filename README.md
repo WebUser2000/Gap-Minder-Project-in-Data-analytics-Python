@@ -1,5 +1,6 @@
 # Gap-Minder-Project-in-Data-Analytics-Python
 The Gapminder Project in Data Analytics with Python is a data visualization and analytics project that typically involves exploring and analyzing socio-economic and health-related indicators of different countries over time.
+
 Steps in the Project:
 
 Data Cleaning: Handling missing values, filtering relevant data, and formatting it for analysis.
